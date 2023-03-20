@@ -32,7 +32,7 @@ export const Pagination = ({ currentPage, pageSize, totalCount, onPageChange, si
 
   return (
     <>
-      <ul className="flex text-xs justify-center max-w-[300px] mx-auto xl:max-w-full">
+      <ul className="flex text-xs justify-center max-w-[300px] mx-auto xl:max-w-full min-w-[300px]">
         {/* Left navigation arrow */}
         <ArrowPagination
           onClick={onPrevious}
