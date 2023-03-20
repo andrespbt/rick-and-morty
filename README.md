@@ -1,6 +1,4 @@
-# rick-and-morty
-Simple Rick and Morty project using React and Tailwind
-
+# Simple Rick and Morty project using React and Tailwind
 
 1- Git clone https://github.com/andrespbt/rick-and-morty.git
 
